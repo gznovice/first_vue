@@ -4,6 +4,6 @@ import AppJerry from './src/index.vue'
 new Vue({
     el: "#demo",
     data: {
-        message : "Hello World2"
+        message : "Hello World3"
   }
 });
